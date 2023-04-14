@@ -13,4 +13,8 @@ ya estoy entendiendo como funciona esta madres
 
 No quiero llorar
 
+<<<<<<< HEAD
 vamos a ver que pdo
+=======
+usando la pc gamer
+>>>>>>> develop
